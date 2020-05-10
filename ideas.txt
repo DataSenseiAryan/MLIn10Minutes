@@ -1,0 +1,57 @@
+
+
+When data can be produced at high
+volume and velocity, it’s very likely to contain a few extreme values
+
+The log transform is a powerful tool for dealing with positive numbers with a
+heavy-tailed distribution. (A heavy-tailed distribution places more probability
+mass in the tail range than a Gaussian distribution.) 
+
+The log transform is a specific example of a family of transformations known as
+power transforms. In statistical terms, these are variance-stabilizing
+transformations.
+
+
+
+Some features, such as latitude or longitude, are bounded in value. Other
+numeric features, such as counts, may increase without bound. Models that are
+smooth functions of the input, such as linear regression, logistic regression, or
+anything that involves a matrix, are affected by the scale of the input. Tree-based
+models, on the other hand, couldn’t care less. If your model is sensitive to the
+scale of input features, feature scaling could help. As the name suggests, feature
+scaling changes the scale of the feature. Sometimes people also call it feature
+normalization. Feature scaling is usually done individually to each feature.
+
+
+
+
+
+
+Feature scaling is useful in situations where a set of input features differs wildly
+in scale. For instance, the number of daily visitors to a popular ecommerce site
+might be a hundred thousand, while the actual number of sales might be in the
+thousands. If both of those features are thrown into a model, then the model will
+need to balance its scale while figuring out what to do. Drastically varying scale
+in input features can lead to numeric stability issues for the model training
+algorithm. In those situations, it’s a good idea to standardize the features
+
+
+
+Interaction features are very simple to formulate, but they are expensive to use.
+The training and scoring time of a linear model with pairwise interaction features
+would go from O(n) to O(n ), where n is the number of singleton features.
+There are a few ways around the computational expense of higher-order
+interaction features. One could perform feature selection on top of all of the
+interaction features. Alternatively, one could more carefully craft a smaller
+number of complex features.
+
+
+
+Feature Selection
+Feature selection techniques prune away nonuseful features in order to reduce
+the complexity of the resulting model. The end goal is a parsimonious model that
+is quicker to compute, with little or no degradation in predictive accuracy. In
+order to arrive at such a model, some feature selection techniques require
+training more than one candidate model. In other words, feature selection is not
+about reducing training time—in fact, some techniques increase overall training
+time—but about reducing model scoring time.
