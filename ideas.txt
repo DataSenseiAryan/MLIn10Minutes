@@ -55,3 +55,7 @@ order to arrive at such a model, some feature selection techniques require
 training more than one candidate model. In other words, feature selection is not
 about reducing training time—in fact, some techniques increase overall training
 time—but about reducing model scoring time.
+
+
+
+https://codesachin.wordpress.com/2016/06/25/non-mathematical-feature-engineering-techniques-for-data-science/
