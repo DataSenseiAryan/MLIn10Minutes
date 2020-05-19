@@ -8,8 +8,8 @@ This blog is a great introduction to Machine Learning and how this technology af
 
  - :point_right:[**What is Machine Learning?**](https://medium.com/@aryanc55/what-is-machine-learning-60ec74f85d7)
  
- - :point_right:[**Intro TO Machine Learning Part-I**](https://medium.com/@aryanc55/intro-to-machine-learning-part-1-byaryan-e76b4b4248bb)
- - :point_right:**Intro TO Machine Learning Part-2** - coming soon
+ - :point_right:[**Intro To Machine Learning Part-I**](https://medium.com/@aryanc55/intro-to-machine-learning-part-1-byaryan-e76b4b4248bb)
+ - :point_right:**Intro To Machine Learning Part-2** - coming soon
  
  
  
@@ -26,7 +26,7 @@ This blog is a great introduction to Machine Learning and how this technology af
 -  McGrawHill - Machine Learning -Tom Mitchell Book
 
 
-*A big thanks to [Deepak](https://www.behance.net/deepakchaurasia) for providing copyright free images and critcism.
+ A big thanks to [Deepak](https://www.behance.net/deepakchaurasia) for providing copyright free images and critcism.
 
 
 
