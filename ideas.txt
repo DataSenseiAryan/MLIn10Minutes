@@ -59,3 +59,7 @@ time—but about reducing model scoring time.
 
 
 https://codesachin.wordpress.com/2016/06/25/non-mathematical-feature-engineering-techniques-for-data-science/
+
+
+
+Knowing the problem well and figuring out how a human being would solve it is part of feature creation.
