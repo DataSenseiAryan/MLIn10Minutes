@@ -1,6 +1,6 @@
-# Hitchhiker's Guide To Machine Learning
+# Machine Learning in 10 Minutes!!
 
-![you are seeing this beacuse of broken image](https://github.com/aryanc55/hitchhikersGuideToMachineLearning/blob/master/assests/push1.webp)
+![you are seeing this beacuse of broken image](https://github.com/aryanc55/MLIn10Minutes/blob/master/assests/show.png)
 
 This blog is a resource to help other developers become well versed in machine learning.
 This blog is a great introduction to Machine Learning and how this technology affect our work and life. The blog's guide to machine learning is particularly useful for those who are interested in jumping into the world of machine learning inspite of any technical background.
@@ -41,5 +41,3 @@ This blog is a great introduction to Machine Learning and how this technology af
 
 
 **Show some :heart: by leaving a :star: at this page!** 
-
-[![HitCount](http://hits.dwyl.com/aryanc55/https://githubcom/aryanc55/hitchhikersGuideToMachineLearning.svg)](http://hits.dwyl.com/aryanc55/https://githubcom/aryanc55/hitchhikersGuideToMachineLearning)
