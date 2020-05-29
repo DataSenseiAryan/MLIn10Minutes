@@ -10,7 +10,7 @@ This blog is a great introduction to Machine Learning and how this technology af
  
  - :point_right:[**Intro To Machine Learning Part-I**](https://medium.com/@aryanc55/intro-to-machine-learning-part-1-byaryan-e76b4b4248bb)
  - :point_right:[**Intro To Machine Learning Part-2**](https://medium.com/@aryanc55/intro-to-machine-learning-part2-byaryan-4dd7f20f4a19)
- - :point_right:[**How To treat Missing Values**](https://medium.com/analytics-vidhya/how-to-handle-missing-values-byaryan-cb76b9dbaae2?source=friends_link&sk=756f8ef40526b1f26f7e05636a45b708)
+ - :point_right:[**How To Handle Missing Values**](https://medium.com/analytics-vidhya/how-to-handle-missing-values-byaryan-cb76b9dbaae2?source=friends_link&sk=756f8ef40526b1f26f7e05636a45b708)
  
  - :point_right:**How To Handle Categorical Values** -coming soon
  
