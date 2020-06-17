@@ -12,8 +12,9 @@ This blog is a great introduction to Machine Learning and how this technology af
  - :point_right:[**Intro To Machine Learning Part-2**](https://medium.com/@aryanc55/intro-to-machine-learning-part2-byaryan-4dd7f20f4a19)
  - :point_right:[**How To Handle Missing Values**](https://medium.com/analytics-vidhya/how-to-handle-missing-values-byaryan-cb76b9dbaae2?source=friends_link&sk=756f8ef40526b1f26f7e05636a45b708)
  
- - :point_right:**How To Handle Categorical Values** -coming soon
- 
+ - :point_right:[**How To Handle Categorical Values**](https://medium.com/big-data-center-of-excellence/how-to-handle-categorical-values-byaryan-a769b2bb4361?source=friends_link&sk=047872f8fd4eb7b45f5a7b0aaf6d7aa6)
+
+- :point_right:[**What is cross validation**] - I am too depressed to write anythings these days!
  
  
  
