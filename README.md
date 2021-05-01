@@ -36,7 +36,7 @@ This blog is a great introduction to Machine Learning and how this technology af
 
 
 
-**Follow Me On [Medium](https://medium.com/@aryanc55)** </br>
+**Follow Me On [Medium](https://medium.com/@DataSenseiAryan)** </br>
 **Follow Me On [Kaggle](https://www.kaggle.com/aryanc55)** </br>
 
 
